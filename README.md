@@ -1,0 +1,2 @@
+# QuoteIt
+Privacy policy QuoteIt
